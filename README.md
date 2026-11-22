@@ -1,4 +1,4 @@
-# HUP Blocklist
+# HUP Abusers IP Blocklist
 
 Public IP blocklist maintained by trey @ HUP (https://hup.hu).
 
