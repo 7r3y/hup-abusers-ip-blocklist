@@ -27,3 +27,7 @@ Entries are sorted lexicographically by IP address. Updates are published manual
 ## Plain-text blocklist
 
 `blocklist.txt` contains one IPv4 address, IPv6 address or CIDR range per line, without comments or headers. It is generated from the same Cloudflare data as `blocklist.json` and is intended for direct use by automated filtering tools.
+
+## TODO
+
+- Add CSV export (`blocklist.csv`) generated from the same Cloudflare `abusers` data.
