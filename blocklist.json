@@ -105,6 +105,11 @@
     "created_on": "2026-11-20T08:44:34Z"
   },
   {
+    "ip": "146.148.127.111",
+    "comment": "HUP vulnerability scan (208 probe hits)",
+    "created_on": "2026-11-24T09:08:32Z"
+  },
+  {
     "ip": "146.19.125.17",
     "comment": "HUP vuln URL probes: 7 distinct paths",
     "created_on": "2026-11-20T08:44:34Z"
@@ -463,6 +468,11 @@
     "ip": "2a03:b0c0:2:f0:0:2:4634:9001",
     "comment": "HUP vuln URL probes: 26 distinct paths",
     "created_on": "2026-11-20T08:44:34Z"
+  },
+  {
+    "ip": "3.250.192.142",
+    "comment": "HUP vulnerability scan (135 probe hits)",
+    "created_on": "2026-11-24T09:08:32Z"
   },
   {
     "ip": "34.107.50.224",
@@ -963,6 +973,11 @@
     "ip": "35.224.214.163",
     "comment": "HUP vuln URL probes: 56 distinct paths",
     "created_on": "2026-11-20T08:44:34Z"
+  },
+  {
+    "ip": "35.228.211.76",
+    "comment": "HUP vulnerability scan (208 probe hits)",
+    "created_on": "2026-11-24T09:08:32Z"
   },
   {
     "ip": "35.228.99.65",
