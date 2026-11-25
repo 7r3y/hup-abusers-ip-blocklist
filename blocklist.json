@@ -440,6 +440,11 @@
     "created_on": "2026-11-20T08:44:34Z"
   },
   {
+    "ip": "2607:f748:c2:112:1c00:82ff:fe00:a0c",
+    "comment": "Automated WordPress vulnerability scanning, XML-RPC probing, admin endpoint discovery and user enumeration attempts.",
+    "created_on": "2026-11-25T07:47:44Z"
+  },
+  {
     "ip": "2a01:e0a:dd0:6ba0:a4c7:dcf7:8d8b:cb12",
     "comment": "HUP vuln URL probes: 11 distinct paths",
     "created_on": "2026-11-20T08:44:34Z"
