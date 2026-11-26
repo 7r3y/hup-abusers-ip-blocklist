@@ -1020,6 +1020,11 @@
     "created_on": "2026-11-20T08:03:23Z"
   },
   {
+    "ip": "35.241.140.57",
+    "comment": "Mass vulnerability scanning: 343 distinct URLs targeting credentials, configuration files, database backups and administrative endpoints",
+    "created_on": "2026-11-26T12:19:50Z"
+  },
+  {
     "ip": "35.243.156.15",
     "comment": "HUP vulnerability scan (134 probe hits)",
     "created_on": "2026-11-20T08:03:23Z"
@@ -1043,6 +1048,11 @@
     "ip": "45.115.26.203",
     "comment": "HUP vulnerability scan (120 probe hits)",
     "created_on": "2026-11-20T08:03:23Z"
+  },
+  {
+    "ip": "45.128.199.224",
+    "comment": "Automated WordPress and webshell scanning: 82 distinct URLs",
+    "created_on": "2026-11-26T12:19:50Z"
   },
   {
     "ip": "45.138.12.16",
